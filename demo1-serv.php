@@ -26,9 +26,3 @@ $serv->on('close', function (swoole_server $serv, $fd) {
 
 //启动服务器
 $serv->start();
-
-/**
- * 相关命令
- *
- *
- */
